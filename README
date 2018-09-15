@@ -1,0 +1,8 @@
+python component needed:
+    python-levenshtein
+    torch
+    visdom
+    wget
+    librosa
+    tqdm
+    ConfigParser
